@@ -170,4 +170,6 @@ The sample uses a deterministic hashing encoder by default so latency and output
 
 ## Demo Video
 
-[Watch the GenAI Demo Video](./GenAiDemoVid.mp4)
+[Watch the Demo Video on Google Drive](https://drive.google.com/file/d/1comm3lgId6vavkge8KeQ1lVl2jm-n2-s/view?usp=sharing)
+
+[View the Demo Video in GitHub](./GenAiDemoVid.mp4)

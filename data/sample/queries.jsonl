@@ -1,0 +1,6 @@
+{"query_id":"q1","query":"How is the input preprocessed before going to the main function?","relevance":{"py-preprocess-v2":3,"py-preprocess-v1":2,"py-main":1}}
+{"query_id":"q2","query":"Where is authentication token validation performed?","relevance":{"py-auth-v2":3,"java-auth":2,"js-auth":2,"py-auth-v1":1}}
+{"query_id":"q3","query":"Which function handles database connection retries?","relevance":{"py-db-retry":3,"java-db-retry":2,"ts-db-retry":2}}
+{"query_id":"q4","query":"Where are API request payloads normalized?","relevance":{"py-api-normalize":3,"js-payload":2,"ts-api":1}}
+{"query_id":"q5","query":"How is duplicate data removed before insertion?","relevance":{"py-dedupe":3,"java-dedupe":2,"js-dedupe":2,"ts-normalize-v2":1}}
+{"query_id":"q6","query":"How are form fields cleaned and normalized?","relevance":{"ts-normalize-v2":3,"ts-normalize-v1":2,"py-preprocess-v2":1}}

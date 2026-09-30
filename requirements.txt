@@ -1,0 +1,16 @@
+# Core runtime (the prototype also has stdlib/numpy fallbacks where practical)
+numpy>=1.24
+pydantic>=2.0
+
+# Recommended retrieval/evaluation extras
+# Verified against the installed 5.5.1 API (encode_query/encode_document).
+sentence-transformers>=5.5,<6
+scikit-learn>=1.3
+rank-bm25>=0.2
+tqdm>=4.66
+
+# Development
+pytest>=8.0
+
+# Optional official benchmark integration; install separately when needed.
+# mteb>=1.30

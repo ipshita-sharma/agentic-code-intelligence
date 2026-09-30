@@ -167,3 +167,7 @@ The sample uses a deterministic hashing encoder by default so latency and output
 3. Tune BM25 field weights, fusion weights, and reranker features on held-out qrels rather than relying on defaults.
 4. Add hard-negative mining and a small cross-encoder reranker for only the filtered top 50 candidates.
 5. Add version-diff features so a query can retrieve the relevant change or evolution path, not only one copy of a function.
+
+## Demo Video
+
+[Watch the GenAI Demo Video](./GenAiDemoVid.mp4)
